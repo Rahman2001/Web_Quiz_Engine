@@ -1,6 +1,6 @@
 # Web_Quiz_Engine
 
-This is Java project built on Spring Boot. 
+This is Java project built in Spring Boot. 
 
 1.A user have to register his/her account via "localhost:8889/api/register" (POST) sending raw JSON format "email" and "password".
 
