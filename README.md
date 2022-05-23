@@ -17,7 +17,7 @@ All the tests described below can be completed using **Postman**!  This project 
 
 ### Example of response of raw JSON format
 
-'''javascript
+'''json
 { 
   "title":"The Java Logo",
   "text":"What is the logo of Java?",
