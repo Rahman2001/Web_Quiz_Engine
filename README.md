@@ -16,7 +16,8 @@ All the tests described below can be completed using **Postman**!  This project 
 5. To create a quiz, a user sends request ***"/api/quizzes"*** (POST) in below JSON format: </br>
 
 ### Example of response of raw JSON format
-'''json
+
+'''javascript
 { 
   "title":"The Java Logo",
   "text":"What is the logo of Java?",
