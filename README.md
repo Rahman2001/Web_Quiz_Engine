@@ -37,7 +37,7 @@ All the tests described below can be completed by using **Postman**!  This proje
 3. To delete a quiz by calling <code>***/api/quizzes/id***</code> can be accomplished provided the 'id' is known, for example: <pre><code>**/api/quizzes/2</pre>**</code>
 
 ## Resources
-The book I read for learning Spring Boot is
+A book I read for learning Spring Boot is
 * ***Spring in Action (5<sup>th</sup> edition)***
 
 ![This is an image of the book taken from amazon.com.tr](https://images-na.ssl-images-amazon.com/images/I/51xkEqwHOxL._SX258_BO1,204,203,200_QL70_ML2_.jpg)
