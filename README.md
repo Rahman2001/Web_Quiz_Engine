@@ -1,6 +1,6 @@
 # Web_Quiz_Engine
 
-This is Java project built in **Spring Boot** framework. 
+This is Java project built in **Spring Boot** framework. The goal of this project is to allow users to create, delete, update and view quizzes.
 
 ## Features of API 
 All the tests described below can be completed by using **Postman**!  This project is all about backend (disclaimer for frontend devs).
